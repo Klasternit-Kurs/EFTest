@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTest", "EFTest\EFTest.csproj", "{1705A556-AB44-4D0D-93C5-2CD564908173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1705A556-AB44-4D0D-93C5-2CD564908173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1705A556-AB44-4D0D-93C5-2CD564908173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1705A556-AB44-4D0D-93C5-2CD564908173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1705A556-AB44-4D0D-93C5-2CD564908173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9290EA01-A53C-4040-A516-BE336CD63E0B}
+	EndGlobalSection
+EndGlobal
